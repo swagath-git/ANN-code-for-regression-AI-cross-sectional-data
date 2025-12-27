@@ -13,9 +13,9 @@ A clean, well-documented implementation of an **Artificial Neural Network (ANN)*
 
 ## Notebook Sections
 1. Introduction & Objective :  — Problem statement and dataset summary
-2. Data Loading & EDA : — Inspecting and visualizing the dataset
-3. Preprocessing : — Handling missing values, encoding, scaling
-4. Modeling : — ANN architecture and compilation
-5. Training : — Fit the model and monitor training history
-6. Evaluation : — Compute metrics and plot results
-7. Save & Export :— Save trained models and predictions.
+2. Data Loading & EDA       : — Inspecting and visualizing the dataset
+3. Preprocessing            : — Handling missing values, encoding, scaling
+4. Modeling                 : — ANN architecture and compilation
+5. Training                 : — Fit the model and monitor training history
+6. Evaluation               : — Compute metrics and plot results
+7. Save & Export            :— Save trained models and predictions.
